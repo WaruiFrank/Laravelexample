@@ -13,3 +13,4 @@ Route::get('/contacts', function () {
 Route::get('/about', function () {
     return view('about');
 });
+//coment
